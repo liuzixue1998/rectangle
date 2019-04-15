@@ -1,8 +1,6 @@
-
 {
-"libs":["browser","jquery"],
-  "plugins":{
-    "node":{}
+  "libs": ["browser", "jquery"],
+  "plugins": {
+    "node": {}
   }
 }
-
